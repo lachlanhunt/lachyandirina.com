@@ -1,0 +1,3 @@
+DirectoryIndex index
+Options All +Multiviews
+AddDefaultCharset UTF-8
